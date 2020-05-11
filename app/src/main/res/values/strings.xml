@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mundial TV</string>
+    <string name="error">Ha ocurrido un error</string>
+    <string name="error_happened">Parece que no está disponible este canal en estos momentos. Quizás el contenido sea geolocalizado o esté oculto. Hemos notificado a la fuente de que el streaming no se está reproduciendo. Sentimos las molestias.</string>
+    <string name="try_again">Reintentar</string>
+    <string name="no_exit">Salir</string>
+    <string name="info">Información</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="favourites_channel">Canales favoritos</string>
+    <string name="cast">Cast</string>
+    <string name="ad_id">ca-app-pub-9992959903461111~4969352231</string>
+    <string name="ad_banner">ca-app-pub-9992959903461111/5907029382</string>
+    <string name="ad_inter">ca-app-pub-9992959903461111/6477875021</string>
+
+    <string name="video_error_media_load_timeout">Media loading timed out</string>
+    <string name="video_error_server_unaccessible">Media server was not reachable</string>
+    <string name="video_error_unknown_error">Failed to load video</string>
+    <string name="app_id">E9C68797</string>
+    <string name="title_activity_main_data">MainDataActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bienvenido a Mundial TV</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="menu_info">Información</string>
+    <string name="menu_my_channels">Mis canales</string>
+    <string name="menu_all_channels">Todos los canales</string>
+    <string name="empty_message">No tienes ningún canal guardado en favoritos.</string>
+    <string name="add_button">Ver todos</string>
+    <string name="search">Buscar</string>
+    <string name="search_query">Buscar canales</string>
+</resources>
